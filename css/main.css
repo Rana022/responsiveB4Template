@@ -196,10 +196,7 @@ table {
   background-size: cover;
   position: relative;
 }
-#dvTop .dvTopChild{
-  position: absolute;
-  top: 70px;
-}
+
 #dvTop h1{
   font-size: 40px;
   font-weight: bold;
@@ -313,7 +310,7 @@ footer .footerItems ul li a{
   }
 
   .btnL {
-    width: 165px;
+    width: 104px;
   }
   .btnR {
     width: 104px;
@@ -327,7 +324,7 @@ footer .footerItems ul li a{
 
 }
 
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 576px) {
   #dvTop h1 {
     font-size: 28px;
   }
@@ -355,7 +352,7 @@ footer .footerItems ul li a{
 
  }
 
-@media (min-width: 768px) and (max-width: 991px) { 
+@media (min-width: 768px){ 
   #dvTop p {
     font-size: 20px;
     margin-top: 15px;
@@ -375,7 +372,7 @@ footer .footerItems ul li a{
 
 }
 
-@media (min-width: 992px) and (max-width: 1199px){ 
+@media (min-width: 992px){ 
 
  }
 
